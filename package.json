@@ -3,7 +3,7 @@
   "type": "module",
   "version": "1.0.0",
   "private": true,
-  "packageManager": "pnpm@9.12.3",
+  "packageManager": "pnpm@9.13.2",
   "description": "ultra taro template",
   "templateInfo": {
     "name": "default",
@@ -58,7 +58,7 @@
     "taro-ui": "^3.3.0"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "^3.8.0",
+    "@antfu/eslint-config": "^3.9.1",
     "@babel/core": "^7.26.0",
     "@babel/plugin-proposal-class-properties": "7.18.6",
     "@babel/preset-react": "^7.25.9",
@@ -73,7 +73,7 @@
     "eslint-plugin-react-hooks": "^5.0.0",
     "eslint-plugin-react-refresh": "^0.4.14",
     "react-refresh": "^0.14.2",
-    "sass-embedded": "^1.80.6",
+    "sass-embedded": "^1.81.0",
     "stylelint": "^16.10.0",
     "terser": "^5.36.0",
     "typescript": "^5.6.3",
